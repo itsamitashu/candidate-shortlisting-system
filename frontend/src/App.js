@@ -15,7 +15,7 @@ function App() {
     projects: ""
   });
 
-  const API = "http://localhost:5000";
+  const API = "https://candidate-shortlisting-system-0qgv.onrender.com/";
 
   const fetchCandidates = async () => {
 
